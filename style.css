@@ -1,0 +1,46 @@
+body {
+    background-image: url(Fundo.jpg);
+    background-size: cover;
+    
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    color: #8E0094;
+    text-shadow: -2px -2px 0 #eafa06fd;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: 900;
+    color: #8303A6;
+}
+h2:hover {
+    text-align: center;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: 900;
+    color: #8303A6;
+    background-color: #eafa06fd ;
+    transition: color, background-color 2s;
+}
+
+hr{
+    border-color: #f0d90bfd;
+}
+p{
+    font-family: arial, Helvetica, sans-serif;
+    color: #f0d90bfd;
+    font-weight: 800;
+}
+
+#Playlist{
+    font-style: italic;
+}
+
+
+div li {
+    border: -1px solid #f0d90bfd;
+}
